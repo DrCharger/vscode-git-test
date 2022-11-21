@@ -1,0 +1,15 @@
+.div-big {
+  display: flex;
+  width: 200px;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+  background-color: blue;
+}
+
+.div-small {
+  width: 10px;
+  height: 10px;
+  background-color: aqua;
+  margin: 10px;
+}
